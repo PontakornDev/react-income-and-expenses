@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&family=Sriracha&display=swap');
+
+*{
+  box-sizing: border-box;
+  font-family: 'Prompt', sans-serif;
+}
+
+body{
+  background: #f7f7f7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+}
+.container{
+  margin: 30px auto;
+  width: 350px;
+}
+
+.horizontal-menu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: rgb(71, 70, 70);
+  text-align: center;
+}
+.horizontal-menu li{
+  display: inline-block;
+}
+.horizontal-menu a{
+  color: white;
+  text-decoration: none;
+  padding: 16px;
+  display: block;
+}
+
+.show-hide button{
+    background-color: rgb(56, 234, 109);
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    margin: 10px 0 30px;
+    padding: 10px;
+    font-size: 16px;
+    width: 50%;
+    border: none;
+    border: 1px solid #111010;
+}
