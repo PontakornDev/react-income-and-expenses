@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-# LINK -> https://reace-income-exponse.netlify.app/
+# LINK -> https://react-income-exponse.netlify.app/
 
 ## Available Scripts
 
